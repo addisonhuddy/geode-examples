@@ -63,6 +63,7 @@ tutorial.
 *  [Partitioned Region](partitioned/README.md)
 *  [Put Multiple Values at Once](putall/README.md)
 *  [Functions](functions/README.md)
+*  [Another Function Example](functions2/README.md)
 *  [Persistence](persistence/README.md)
 *  [OQL (Querying)](queries/README.md)
 
@@ -75,7 +76,7 @@ tutorial.
 *  [Cache Writer](writer/README.md)
 *  [Cache Listeners](listener/README.md)
 *  [Async Event Queues & Async Event Listeners](async/README.md)
-*  Continuous Querying
+*  [Continuous Querying](cq/README.md)
 *  [Transaction](transaction/README.md)
 *  [Eviction](eviction/README.md)
 *  [Expiration](expiration/README.md)
